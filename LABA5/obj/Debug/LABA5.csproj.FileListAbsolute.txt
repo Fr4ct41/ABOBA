@@ -1,0 +1,16 @@
+D:\C++\Projects\LABA5\LABA5\bin\Debug\LABA5.exe.config
+D:\C++\Projects\LABA5\LABA5\bin\Debug\LABA5.exe
+D:\C++\Projects\LABA5\LABA5\bin\Debug\LABA5.pdb
+D:\C++\Projects\LABA5\LABA5\obj\Debug\LABA5.csproj.AssemblyReference.cache
+D:\C++\Projects\LABA5\LABA5\obj\Debug\LABA5.csproj.SuggestedBindingRedirects.cache
+D:\C++\Projects\LABA5\LABA5\obj\Debug\LABA5.Login.resources
+D:\C++\Projects\LABA5\LABA5\obj\Debug\LABA5.Properties.Resources.resources
+D:\C++\Projects\LABA5\LABA5\obj\Debug\LABA5.csproj.GenerateResource.cache
+D:\C++\Projects\LABA5\LABA5\obj\Debug\LABA5.csproj.CoreCompileInputs.cache
+D:\C++\Projects\LABA5\LABA5\obj\Debug\LABA5.exe
+D:\C++\Projects\LABA5\LABA5\obj\Debug\LABA5.pdb
+D:\C++\Projects\LABA5\LABA5\obj\Debug\LABA5.signUp.resources
+D:\C++\Projects\LABA5\LABA5\obj\Debug\LABA5.History.resources
+D:\C++\Projects\LABA5\LABA5\obj\Debug\LABA5.MainWindow.resources
+D:\C++\Projects\LABA5\LABA5\obj\Debug\LABA5.Items.resources
+D:\C++\Projects\LABA5\LABA5\obj\Debug\LABA5.NewItem.resources
